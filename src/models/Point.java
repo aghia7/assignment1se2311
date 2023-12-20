@@ -27,6 +27,9 @@ public class Point {
     }
 
     // create a method distance to calculate the distance from current point to the dest point
-
+    public double getDistance(Point dest) {
+        return 0;
+    }
+    
     // toString()
 }
